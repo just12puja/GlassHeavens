@@ -1,3 +1,3 @@
 # GlassHeavens
 Furniture website
-link for the webite : http://glass-heavens.vercel.app 
+link for the website : http://glass-heavens.vercel.app 
